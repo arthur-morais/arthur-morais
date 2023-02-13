@@ -1,6 +1,6 @@
-## - 🔭 I'm studying Systems Analysis and Development at UNINASSAU.
-## - 🌱 I’m currently deepening my knowledge of JavaScript and I plan to study React, NodeJS and TypeScript.
-## - 👯 I’m looking for a internship to get my first experience at the area.
+## - 👨🏻‍🎓 I'm studying Systems Analysis and Development at UNINASSAU.
+## - 📚 I’m currently deepening my knowledge of JavaScript and I plan to study React, NodeJS and TypeScript.
+## - 💻 I’m looking for a internship to get my first experience at the area.
 
  <div>
    <a href="https://github.com/arthur-morais">
