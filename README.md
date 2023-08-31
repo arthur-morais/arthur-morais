@@ -1,11 +1,6 @@
 # - Hey! I'm Arthur Morais
 
-<a href="https://github.com/arthur-morais/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-morais" />
-</a>
-<a href="https://github.com/arthur-morais/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-morais&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 ## - Tech Stack
  
