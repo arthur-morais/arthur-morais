@@ -1,9 +1,7 @@
 
-## Hey! I'm Arthur, here is some info about me :)
+## Hey!
 
-- Mobile and Web developer;
-- Passionate about software development;
-- Currently working on freelances, feel free to reach out to me!
+I'm a mobile and web developer who is passionate about software development and eager for learning everyday. I'm currently working with the following techs:
 
 ## Tech Stack
 
