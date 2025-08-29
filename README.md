@@ -1,7 +1,7 @@
 
 ## Hey!
 
-I'm a mobile and web developer who is passionate about software development and eager for learning everyday. I'm currently working with the following techs:
+I am a mobile and web developer passionate about software development and continuous learning. Currently, I work at Accenture as a Software Engineer, specializing in SAP/ABAP solutions. Beyond my role, I have proficiency in the following technologies:
 
 ## Tech Stack
 
