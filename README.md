@@ -16,6 +16,11 @@ I'm a mobile and web developer who is passionate about software development and 
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![ABAP](https://img.shields.io/badge/ABAP-%23008FCC.svg?style=for-the-badge&logo=sap&logoColor=white&logoSize=auto)
+
+
+
+
  
 <div style="display: inline_block"><br>
   <img align="right" alt="tsuna-img" height="150" style="border-radius:50px;" src="https://i.imgur.com/8l7Rpc5.jpg">
