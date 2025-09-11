@@ -1,7 +1,7 @@
 
 ## Hey!
 
-I am a mobile and web developer passionate about software development and continuous learning. Currently, I work at Accenture as a Software Engineer, specializing in SAP/ABAP solutions. Beyond my role, I have proficiency in the following technologies:
+I am a software developer at Accenture, working on an ABAP Support Team, where I ensure the maintenance, correction, and implementation of SAP systems. I also bring experience in mobile development using Flutter/Dart and front-end solutions that enhance user experience and improve business efficiency.
 
 ## Tech Stack
 
